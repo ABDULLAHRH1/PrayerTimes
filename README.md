@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
+  A stunning website showcasing my HTML, CSS, JavaScript, MUI CSS, and React skills with a touch of creativity.
 </p>
 
 <p align="center">
