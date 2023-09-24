@@ -27,9 +27,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" />
   </a>
   <img src="https://img.icons8.com/color/80/000000/github--v1.png" alt="GitHub" />
-  <img src="https://img.icons8.com/color/80/000000/axios.png" alt="Axios" />
-  <img src="https://img.icons8.com/color/80/000000/momentjs.png" alt="Moment.js" />
-  <img src="https://img.icons8.com/color/80/000000/react-dom.png" alt="react-dom" />
   <img src="https://img.icons8.com/color/80/000000/vite.png" alt="Vite" />
   <img src="https://img.icons8.com/color/80/000000/material-ui.png" alt="Material-UI" />
 </p>
